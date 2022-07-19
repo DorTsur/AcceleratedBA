@@ -6,6 +6,8 @@ On each iteration we perform the two following calculations:
 
 ![alt text](https://github.com/DorTsur/AcceleratedBA/blob/main/ba_alg_steps.png)
 
+The algorithm is implemented in python, by constructing a trainer class that has initialization, channel matrxi construction, training and visualization methods.
+
 I've decided to visualize the results by evaluating several metrics.
 
 1. The mutual information induced by the current PMF vs. iteration:
